@@ -8,6 +8,7 @@
     box-shadow: 0px 0px 5px 0px;
     background-color: lightcoral;
 
+
 }
 
 #hello {
@@ -25,14 +26,20 @@
     color: aliceblue;
     font-size: 2em;
     background-color: black;
+    background-image: url("https://cdn1.iconfinder.com/data/icons/hands-pt-6/100/001_-_shaka-512.png");
+
+    
 }
 
 
 body {
-    background-color: rgb(20, 73, 29);
+    background-color: rgb(172, 214, 219);
+    background-image: url("assets/images/hike.jpg");
+
   }
   
   p {
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-size:  30px;
   }
+  
